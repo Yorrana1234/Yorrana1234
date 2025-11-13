@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**Yorrana1234/Yorrana1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Atualmente estou trabalhando em:**  
+  Projetos de desenvolvimento web e aplicações baseadas em IA.
 
-Here are some ideas to get you started:
+- 🌱 **Atualmente estou aprendendo:**  
+  TypeScript, Node.js, arquitetura de software e técnicas avançadas de machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 **Estou procurando colaborar em:**  
+  Projetos open-source, APIs, aplicações voltadas para produtividade e soluções de IA.
+
+- 🤔 **Estou procurando ajuda com:**  
+  Boas práticas de escalabilidade, integração contínua e automação.
+
+- 💬 **Pergunte-me sobre:**  
+  JavaScript, Python, desenvolvimento web, inteligência artificial, automação de tarefas e boas práticas de c

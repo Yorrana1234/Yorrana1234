@@ -1,16 +1,26 @@
 # Olá! 👋
 
-- 🔭 **Atualmente estou trabalhando em:**  
-  Projetos de desenvolvimento web e aplicações baseadas em IA.
+# 👋 Olá! Bem-vindo ao meu GitHub
 
-- 🌱 **Atualmente estou aprendendo:**  
-  TypeScript, Node.js, arquitetura de software e técnicas avançadas de machine learning.
+Sou um **estudante de Sistemas de Informação** iniciando minha jornada no mundo da tecnologia. Aqui compartilho estudos e experiências enquanto desenvolvo minhas habilidades em programação, análise e desenvolvimento de sistemas.
 
-- 👯 **Estou procurando colaborar em:**  
-  Projetos open-source, APIs, aplicações voltadas para produtividade e soluções de IA.
+---
 
-- 🤔 **Estou procurando ajuda com:**  
-  Boas práticas de escalabilidade, integração contínua e automação.
+## 🚀 Sobre mim
+- 🎓 Estudante de **Sistemas de Informação**  
+- 💻 resolução de problemas  
+- 📚 Sempre aprendendo algo novo  
+- 🧩 Explorando lógica, desenvolvimento web e boas práticas  
+- 🌱 Objetivo: evoluir e construir projetos cada vez melhores  
 
-- 💬 **Pergunte-me sobre:**  
-  JavaScript, Python, desenvolvimento web, inteligência artificial, automação de tarefas e boas práticas de c
+---
+
+## 🛠️ Tecnologias que estou aprendendo
+- **Linguagens:** HTML, CSS, Python  
+- **Ferramentas:** Git, GitHub, VS Code  
+- **Interesses:** Desenvolvimento Web, Banco de Dados, Algoritmos e Lógica  
+
+---
+
+## 📈 Meu progresso
+Estou no início da jornada, mas cada commit representa uma nova etapa do meu aprendizado.
